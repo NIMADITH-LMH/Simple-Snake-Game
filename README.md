@@ -103,8 +103,6 @@ python snake_game.py
 
 ## 📁 File List
 
-All files are in: `C:\Users\NIMADITH`
-
 | File | Description |
 |------|-------------|
 | `snake_game.py` | Main game file |
